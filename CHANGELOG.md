@@ -1,3 +1,7 @@
+# 0.7.1
+
+- Support flutter 3.16
+
 # 0.7.0
 
 - Add validateBlurhash() method
@@ -14,7 +18,7 @@
 
 - Add headers for secure auth calls
 
-# 0.6.4 
+# 0.6.4
 
 - onDecoded() and onDisplayed() events
 
